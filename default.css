@@ -21,7 +21,7 @@ body {
   linear-gradient(
   rgba(0, 0, 0, 0.25), 
   rgba(0, 0, 0, 0.25)
-  ), url("https://cdn.pixabay.com/photo/2015/12/19/21/15/cape-cod-1100301_1280.jpg");
+  ), url("header.jpg");
   position: relative;
   height: 100vh;
   background-size: cover;
@@ -634,7 +634,7 @@ img.fullscreen-img:hover {
 
 .brookline-hotel {
   height: 50vh;
-  background-image: url("https://cdn.pixabay.com/photo/2014/05/24/17/24/new-england-352987_1280.jpg");
+  background-image: url("massachusetts.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
