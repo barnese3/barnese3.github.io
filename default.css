@@ -579,9 +579,8 @@ img.fullscreen-img:hover {
 
 .ferry {
   text-align: center;
-  width: 100%;
-  margin-top: 200px;
-  margin-bottom: 100px;
+  width: 95%;
+  margin: 200px auto 100px auto;
   background:
   linear-gradient(
   rgba(255, 255, 255, 0.5), 
@@ -604,11 +603,17 @@ img.fullscreen-img:hover {
 
 .ferry-image {
   width: 50%;
+  padding-top: 0%;
 }
 
 .ferry img {
   width: 80%;
   height: 80%;
+}
+
+#ferry-arrow {
+  margin-top: -15px;
+  padding: 0px;
 }
 
 .awards {
