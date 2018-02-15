@@ -139,6 +139,8 @@ $(document).ready(function(){
   });
 });
 
+
+// back to top button
 $(document).ready(function() {
     $(function(){
         $.fn.scrollToTop=function(){
